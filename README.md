@@ -1,6 +1,6 @@
 # Three-Phase Current Monitoring System for ESP32
 
-![System Diagram](docs/system_diagram.png) *(Optional: Add diagram image if available)*
+![System Diagram](Additional Files/Circuit Diagram.jpg)
 
 ## Project Overview
 
