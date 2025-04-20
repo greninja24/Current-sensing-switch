@@ -48,9 +48,3 @@ This system provides three-phase current monitoring with protection features inc
 Install these libraries via **Tools > Manage Libraries**:
 - `LiquidCrystal_I2C` by Frank de Brabander (for LCD control)
 - `Wire` (included with Arduino, for I2C communication)
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/three-phase-monitor.git
