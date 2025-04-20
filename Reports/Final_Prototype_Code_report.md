@@ -179,3 +179,18 @@ This three-phase monitoring and protection system is ideal for:
 - Energy monitoring in commercial setups
 
 The system is self-calibrating, informative, and built for reliability in noisy environments. It ensures robust protection and gives you real-time insight into your power systems.
+
+
+---
+
+## Repository Structure
+
+```
+/main
+│
+├── Final Prototype code
+│   └── [View Final Code](./main/Final%20Prototype%20code)
+```
+
+This folder contains the final Arduino code used for the current monitoring and protection system.
+
